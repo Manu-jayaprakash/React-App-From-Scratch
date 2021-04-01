@@ -4,7 +4,6 @@ import ReactDOM from "react-dom";
 
 import App from "./App";
 
-const title = "React with Webpack and Babel";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
